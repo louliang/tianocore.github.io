@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: EDK II Developer Mailing List / EDK II 开发者邮件列表
+    url: https://edk2.groups.io/g/devel
+    about: For development questions, please use the EDK II developer mailing list. / 对于开发问题，请使用 EDK II 开发者邮件列表。
+  - name: TianoCore Wiki / TianoCore 维基
+    url: https://github.com/tianocore/tianocore.github.io/wiki
+    about: Check the TianoCore wiki for documentation and FAQs. / 查看 TianoCore 维基获取文档和常见问题解答。
